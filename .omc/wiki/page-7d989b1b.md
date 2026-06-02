@@ -4,7 +4,7 @@ tags: ["인터뷰방법론", "헬스트레이너", "건준", "코치립인터뷰
 created: 2026-06-02T02:38:28.228Z
 updated: 2026-06-02T02:38:28.228Z
 sources: []
-links: ["health-gym-hypothesis.md", "pain-point-analysis.md"]
+links: ["page-57d14343.md", "28.md"]
 category: pattern
 confidence: medium
 schemaVersion: 1
@@ -65,6 +65,6 @@ schemaVersion: 1
 | 감정 담긴 표현 ("진짜 짜증 났어") | 일반론 ("다들 그럴 거야") |
 
 ## 관련 문서
-- [[health-gym-hypothesis]] - 이 방법론으로 수행한 실제 인터뷰 결과
-- [[pain-point-analysis]] - 헬스트레이너를 포함한 28개 직업 분석
+- [[page-57d14343]] - 이 방법론으로 수행한 실제 인터뷰 결과
+- [[28]] - 헬스트레이너를 포함한 28개 직업 분석
 
