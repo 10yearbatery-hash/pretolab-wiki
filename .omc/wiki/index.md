@@ -1,6 +1,6 @@
 # Wiki Index
 
-> 33 pages | Last updated: 2026-06-02T07:37:32.092Z
+> 25 pages | Last updated: 2026-06-02T09:30:00.000Z
 
 ## decision
 
@@ -40,11 +40,3 @@
 - [게임 스트리머 인터뷰 보고서 (기덕)](page-0cef75d4.md) — # 게임 스트리머 인터뷰 보고서 (기덕)
 - [헬스장 잠입 인터뷰 - 초개인화 회원관리 가설 분석 (건준)](page-57d14343.md) — # 헬스장 잠입 인터뷰 - 초개인화 회원관리 가설 분석 (건준)
 - [프로젝트 진행 타임라인](page-68652ed2.md) — # 프로젝트 진행 타임라인
-- [Session Log 2026-06-02](session-log-2026-06-02-05ff7937.md) — # Session Log 2026-06-02
-- [Session Log 2026-06-02](session-log-2026-06-02-42bcb1a7.md) — # Session Log 2026-06-02
-- [Session Log 2026-06-02](session-log-2026-06-02-8a84aec1.md) — # Session Log 2026-06-02
-- [Session Log 2026-06-02](session-log-2026-06-02-8db69a01.md) — # Session Log 2026-06-02
-- [Session Log 2026-06-02](session-log-2026-06-02-b421edd7.md) — # Session Log 2026-06-02
-- [Session Log 2026-06-02](session-log-2026-06-02-ced71c65.md) — # Session Log 2026-06-02
-- [Session Log 2026-06-02](session-log-2026-06-02-e596ca71.md) — # Session Log 2026-06-02
-- [Session Log 2026-06-02](session-log-2026-06-02-eda714be.md) — # Session Log 2026-06-02
