@@ -148,3 +148,27 @@
 - **Pages:** 0524.md, 0526-1.md, 0526.md, 0527-a.md, 2026-06-02-project-plan-yeonghwan.md, ai-3.md, page-082811a0.md, page-0cef75d4.md, page-28f1f002.md, page-68652ed2.md, session-log-2026-06-02-05ff7937.md, session-log-2026-06-02-42bcb1a7.md, session-log-2026-06-02-8a84aec1.md, session-log-2026-06-02-ced71c65.md, session-log-2026-06-02-e596ca71.md, session-log-2026-06-02-eda714be.md
 - **Summary:** Lint: 16 issues (16 orphan, 0 stale, 0 broken, 0 contradictions)
 
+## [2026-06-02T07:24:52.471Z] ingest
+- **Pages:** session-log-2026-06-02-8db69a01.md
+- **Summary:** Auto-captured session log for fc938b55-afde-44d8-a4c5-933f8db69a01
+
+## [2026-06-02T07:30:15.085Z] ingest
+- **Pages:** session-log-2026-06-02-b421edd7.md
+- **Summary:** Auto-captured session log for 0620c664-091b-4858-93bc-fac6b421edd7
+
+## [2026-06-02T07:37:32.053Z] ingest
+- **Pages:** 2026-07-18.md
+- **Summary:** Created new page "데모데이 전체 로드맵 (2026-07-18)"
+
+## [2026-06-02T07:38:20.058Z] lint
+- **Pages:** 0524.md, 0526-1.md, 0526.md, 0527-a.md, 2026-06-02-project-plan-yeonghwan.md, 2026-07-18.md, ai-3.md, page-082811a0.md, page-0cef75d4.md, page-28f1f002.md, page-68652ed2.md, session-log-2026-06-02-05ff7937.md, session-log-2026-06-02-42bcb1a7.md, session-log-2026-06-02-8a84aec1.md, session-log-2026-06-02-8db69a01.md, session-log-2026-06-02-b421edd7.md, session-log-2026-06-02-ced71c65.md, session-log-2026-06-02-e596ca71.md, session-log-2026-06-02-eda714be.md
+- **Summary:** Lint: 21 issues (19 orphan, 0 stale, 2 broken, 0 contradictions)
+
+## [2026-06-02T07:38:45.216Z] lint
+- **Pages:** 0524.md, 0526-1.md, 0526.md, 0527-a.md, 2026-06-02-project-plan-yeonghwan.md, 2026-07-18.md, ai-3.md, page-082811a0.md, page-0cef75d4.md, page-28f1f002.md, page-68652ed2.md, session-log-2026-06-02-05ff7937.md, session-log-2026-06-02-42bcb1a7.md, session-log-2026-06-02-8a84aec1.md, session-log-2026-06-02-8db69a01.md, session-log-2026-06-02-b421edd7.md, session-log-2026-06-02-ced71c65.md, session-log-2026-06-02-e596ca71.md, session-log-2026-06-02-eda714be.md
+- **Summary:** Lint: 21 issues (19 orphan, 0 stale, 2 broken, 0 contradictions)
+
+## [2026-06-02T07:40:01.494Z] lint
+- **Pages:** 0524.md, 0526-1.md, 0526.md, 0527-a.md, 2026-06-02-project-plan-yeonghwan.md, 2026-07-18.md, ai-3.md, page-082811a0.md, page-0cef75d4.md, page-68652ed2.md, session-log-2026-06-02-05ff7937.md, session-log-2026-06-02-42bcb1a7.md, session-log-2026-06-02-8a84aec1.md, session-log-2026-06-02-8db69a01.md, session-log-2026-06-02-b421edd7.md, session-log-2026-06-02-ced71c65.md, session-log-2026-06-02-e596ca71.md, session-log-2026-06-02-eda714be.md
+- **Summary:** Lint: 18 issues (18 orphan, 0 stale, 0 broken, 0 contradictions)
+
