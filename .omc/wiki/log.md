@@ -172,3 +172,15 @@
 - **Pages:** 0524.md, 0526-1.md, 0526.md, 0527-a.md, 2026-06-02-project-plan-yeonghwan.md, 2026-07-18.md, ai-3.md, page-082811a0.md, page-0cef75d4.md, page-68652ed2.md, session-log-2026-06-02-05ff7937.md, session-log-2026-06-02-42bcb1a7.md, session-log-2026-06-02-8a84aec1.md, session-log-2026-06-02-8db69a01.md, session-log-2026-06-02-b421edd7.md, session-log-2026-06-02-ced71c65.md, session-log-2026-06-02-e596ca71.md, session-log-2026-06-02-eda714be.md
 - **Summary:** Lint: 18 issues (18 orphan, 0 stale, 0 broken, 0 contradictions)
 
+## [2026-06-02T08:06:36.698Z] ingest
+- **Pages:** session-log-2026-06-02-ddaaa5c1.md
+- **Summary:** Auto-captured session log for ed1ad4e3-a6be-4462-a0b0-210dddaaa5c1
+
+## [2026-06-02T08:11:03.483Z] query
+- **Pages:** session-log-2026-06-02-05ff7937.md, session-log-2026-06-02-42bcb1a7.md, session-log-2026-06-02-8a84aec1.md, session-log-2026-06-02-8db69a01.md, session-log-2026-06-02-b421edd7.md, session-log-2026-06-02-ced71c65.md, session-log-2026-06-02-ddaaa5c1.md, session-log-2026-06-02-e596ca71.md, session-log-2026-06-02-eda714be.md, 0601.md, 0527-a.md, 0530.md, page-0cef75d4.md, 0524.md, 0526-1.md, 0526.md, 0527.md, 1-0525.md, page-57d14343.md, page-68652ed2.md
+- **Summary:** Query "Session Log 2026-06-02" → 20 results (of 20 total)
+
+## [2026-06-02T08:13:41.282Z] lint
+- **Pages:** 0524.md, 0526-1.md, 0526.md, 0527-a.md, 2026-06-02-project-plan-yeonghwan.md, 2026-07-18.md, ai-3.md, page-082811a0.md, page-0cef75d4.md, page-68652ed2.md
+- **Summary:** Lint: 10 issues (10 orphan, 0 stale, 0 broken, 0 contradictions)
+
